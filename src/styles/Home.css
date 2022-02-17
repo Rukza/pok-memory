@@ -1,0 +1,15 @@
+.myForm {
+        height: auto;
+        background-color: #292929;
+        background: -o-radial-gradient(30vw 20vh,farthest-corner,#c11a1a 10%,#292929 100%);
+        background: radial-gradient(farthest-corner at 30vw 20vh,#c11a1a 10%,#292929 100%);
+        -webkit-box-shadow: 0 2px 4px 0 rgba(0,0,0,0.8);
+        box-shadow: 0 2px 4px 0 rgba(0,0,0,0.8);
+        border: 5px solid  #ffe600;
+        border-radius: 10px;
+        font-size: 1rem;
+        text-align: center;
+}
+.myForm h1{
+        color: blanchedalmond;
+}

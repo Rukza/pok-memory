@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#303C42;}
+	.st1{fill:#E53935;}
+	.st2{fill:#455A64;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#F2F2F2;}
+	.st5{opacity:0.2;fill:#FFFFFF;enable-background:new    ;}
+	.st6{fill:url(#SVGID_1_);}
+	.st7{opacity:0.1;enable-background:new    ;}
+	.st8{opacity:0.5;fill:#FFFFFF;}
+</style>
+<g id="Capa_1">
+	<path class="st0" d="M256,0C114.8,0,0,114.8,0,256s114.8,256,256,256s256-114.8,256-256S397.2,0,256,0z"/>
+	<path class="st1" d="M256,21.3c121.5,0,221.7,92.8,233.5,211.3c-17.4,3.8-61.5,11.9-127.9,12.6c-5.5-53.7-50.5-95.9-105.6-95.9
+		s-100.1,42.2-105.6,95.9c-66.4-0.7-110.5-8.8-127.9-12.6C34.3,114.2,134.5,21.3,256,21.3z"/>
+	<circle class="st2" cx="256" cy="256" r="85.3"/>
+	<path class="st3" d="M256,490.7C126.6,490.7,21.3,385.4,21.3,256c0-0.6,0.1-1.2,0.1-1.8c20.3,4.3,64.2,11.5,129,12.3
+		c5.4,53.8,50.4,96.2,105.6,96.2s100.2-42.3,105.6-96.2c64.7-0.7,108.7-7.9,129-12.3c0,0.6,0.1,1.2,0.1,1.8
+		C490.7,385.4,385.4,490.7,256,490.7z"/>
+	<circle class="st0" cx="256" cy="256" r="64"/>
+	<circle class="st4" cx="256" cy="256" r="42.7"/>
+	<path class="st5" d="M221.8,268.9c0-23.5,19.1-42.7,42.7-42.7c12.2,0,23.2,5.2,31,13.5c-6.4-15.5-21.6-26.4-39.4-26.4
+		c-23.5,0-42.7,19.1-42.7,42.7c0,11.3,4.5,21.5,11.7,29.2C223,280.2,221.8,274.7,221.8,268.9z"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="213.6708" y1="656.1501" x2="235.4228" y2="646.0082" gradientTransform="matrix(21.3333 0 0 -21.3333 -4534.3242 14145.667)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path class="st6" d="M256,0C114.8,0,0,114.8,0,256s114.8,256,256,256s256-114.8,256-256S397.2,0,256,0z"/>
+	<path class="st7" d="M444.7,240c21-2.6,36.2-5.5,44.7-7.4c-5.8-58.4-33.2-110.5-73.9-148.4c20.5,34.8,32.4,75.2,32.4,118.4
+		C448,215.4,446.7,227.8,444.7,240z"/>
+	<path class="st7" d="M490.6,254.2c-10.5,2.2-27.6,5.3-50.5,7.7c-26.4,100.7-117.9,175.4-226.8,175.4c-61.8,0-117.9-24.2-159.9-63.4
+		C94.2,443.6,169.6,490.7,256,490.7c129.4,0,234.7-105.3,234.7-234.7C490.7,255.4,490.6,254.8,490.6,254.2z"/>
+</g>
+<rect y="0" class="st8" width="512" height="512"/>
+</svg>
